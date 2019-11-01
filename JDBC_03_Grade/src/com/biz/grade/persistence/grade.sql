@@ -1,0 +1,2 @@
+SELECT * FROM TBL_SCORE;
+SELECT * FROM view_score;
